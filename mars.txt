@@ -5,3 +5,4 @@ Yesterday it worked
 Today it is not working
 Computers are like that
 SWC is cool
+Maybe we are slowly getting the hang of this.
